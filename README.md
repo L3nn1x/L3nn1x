@@ -10,7 +10,7 @@
 
   gmail: ocho.contact.08@gmail.com
 
-
+#
 i really would love to have the oportunity to work in Good company,
 my Github is my only prove that i can code, sadly i can't i don't have money for college
 
