@@ -8,7 +8,7 @@
 
 # contact info:
 
-  gmail: ocho.contact.08@gmail.com
+    ocho.contact.08@gmail.com
 
 #
 i really would love to have the oportunity to work in Good company,
