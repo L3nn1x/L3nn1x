@@ -8,7 +8,7 @@
 
 # contact info:
 
-    ocho.contact.08@gmail.com
+    lennix.2908@gmail.com
 
 #
 i really would love to have the oportunity to work in a Good company,
